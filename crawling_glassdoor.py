@@ -100,15 +100,6 @@ def crawling_glassdoor_overview(link):
     other = obtained_dict.get("Other")
     staffing_agency = obtained_dict.get("Staffing Agency")
 
-    # website =  get_text(soup.select_one("#EmpBasicInfo > div:nth-of-type(1) > div > div:nth-of-type(1) > span > a"))
-    # headquarters = get_text(soup.select_one("#EmpBasicInfo > div:nth-of-type(1) > div > div:nth-of-type(2) > span"))
-    # size = get_text(soup.select_one("#EmpBasicInfo > div:nth-of-type(1) > div > div:nth-of-type(3) > span"))
-    # part_of = get_text(soup.select_one("#EmpBasicInfo > div:nth-of-type(1) > div > div:nth-of-type(4) > span > a"))
-    # founded = get_text(soup.select_one("#EmpBasicInfo > div:nth-of-type(1) > div > div:nth-of-type(5) > span"))
-    # type = get_text(soup.select_one("#EmpBasicInfo > div:nth-of-type(1) > div > div:nth-of-type(6) > span"))
-    # industry = get_text(soup.select_one("#EmpBasicInfo > div:nth-of-type(1) > div > div:nth-of-type(7) > span"))
-    # revenue = get_text(soup.select_one("#EmpBasicInfo > div:nth-of-type(1) > div > div:nth-of-type(8) > span"))
-    # competitors = get_text(soup.select_one("#EmpBasicInfo > div:nth-of-type(1) > div > div:nth-of-type(9) > span"))
 
     return (employer_id, employer_name, nb_reviews, nb_jobs, nb_interviews,
             website, headquarters, size, part_of, founded, type, industry,
