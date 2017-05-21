@@ -1,0 +1,4 @@
+employer_id,employer_name,nb_reviews,nb_jobs,nb_interviews,website,headquarters,size,part_of,founded,type,industry,revenue,competitors,positive,neutral,negative,applied_online,employee_referral,recruiter,campus_recruiting,in_person,other,staffing_agency,difficulty_value
+3809,Activision, 151, 651, 38,www.activision.com,"Santa Monica, CA",1001 to 5000 employees, Activision Blizzard , 1979, Subsidiary or Business Segment, Media, $100 to $500 million (USD) per year," Electronic Arts, Sony, Take-Two",52,13,34,65,15,12,3,,3,, 2.6
+1138,Apple, 10k, 4.2k, 5.3k,www.apple.com,"Cupertino, CA",10000+ employees,, 1976, Company - Public (AAPL) , Information Technology, $10+ billion (USD) per year,,66,19,13,54,14,13,9,3,2,1, 3.0
+909603,Apple Tree Partners, 1, --, --,www.appletreepartners.com,"New York, NY",1 to 50 employees,, 1999, Private Practice / Firm, Finance, Unknown / Non-Applicable per year, Unknown,,,,,,,,,,,0
